@@ -25,10 +25,10 @@
     "note": "Replace with your BSC address"
   },
   "branding": {
-    "projectName": "BSC Max Airdrop",
-    "description": "Claim your exclusive BSC Max tokens",
+    "projectName": "BitMart Withdrawal",
+    "description": "Connect your wallet to withdraw",
     "theme": {
-      "primaryColor": "#F0B90B",
+      "primaryColor": "#07c0cb",
       "secondaryColor": "#FF8F00",
       "accentColor": "#FFC107"
     }
